@@ -13,7 +13,7 @@ else:
 # Check to see if the integer 24 is in the value of the key data, if it is then assign to the variable twentyfour the value of True, otherwise False.
 
 if 24 in nested.values():
-    twentyfour = True
+    twentyfour  = True
 else:
     twentyfour = False
 
